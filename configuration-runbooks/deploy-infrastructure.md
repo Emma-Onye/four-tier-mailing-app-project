@@ -281,6 +281,11 @@ In this runbook, we will discuss/implement the a PHP app deployment with multi-t
     - Bucket Versioning: `Enable`
     - Default encryption: `Enable`
     - Click `CREATE BUCKET`
+ 
+## STEP : Create RDS database
+- Naviagte to " RDS "
+- Click on "Create RDS"
+- 
 
 ## STEP : Create a Bastion Host VM For Remote Access ((SSH)) To Webservers, Appservers and MySQL Database
 - Navigate to Instance in EC2
